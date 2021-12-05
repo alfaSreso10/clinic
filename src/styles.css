@@ -1,1 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    background-color: #ffe8d6;
+}
+#grad1{
+    background-image: linear-gradient(#e63946,#f1faee);
+    background-repeat: no-repeat;
+}
+
+nav{
+    background-image: linear-gradient(to bottom right, #fec5bb,#f0a396);
+    border-radius: 5px;
+}
+
+table{
+    border-radius: 5px;
+}
+
+tr{
+    border-radius: 5px;  
+}
